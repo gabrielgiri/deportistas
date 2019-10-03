@@ -1,0 +1,74 @@
+{
+    "todos": [
+        {
+            "nombre": "Kylian Mbappé",
+            "pais": "Francia",
+            "club": "Paris Saint-Germain",
+            "edad": "20",
+            "deporte": "Futbol"
+        },
+        {
+            "nombre": "Rodrigo Bentancur",
+            "pais": "Argentina",
+            "club": "Sevilla",
+            "edad": "26",
+            "deporte": "Tenis"
+        },
+        {
+            "nombre": "Krzysztof Piątek",
+            "pais": "Brasil",
+            "club": "Barcelona",
+            "edad": "22",
+            "deporte": "Futbol"
+        },
+        {
+            "nombre": "Joshua Kimmich",
+            "pais": "Argentina",
+            "club": "Barcelona",
+            "edad": "41",
+            "deporte": "Futbol"
+        },
+        {
+            "nombre": "Luis Suarez",
+            "pais": "Peru",
+            "club": "Barcelona",
+            "edad": "39",
+            "deporte": "Futbol"
+        },
+        {
+            "nombre": "Marco Asensio",
+            "pais": "Italia",
+            "club": "Barcelona",
+            "edad": "18",
+            "deporte": "Futbol"
+        },
+        {
+            "nombre": "Andrew Robertson",
+            "pais": "Argentina",
+            "club": "Napoli",
+            "edad": "31",
+            "deporte": "Futbol"
+        },
+        {
+            "nombre": "Steven",
+            "pais": "España",
+            "club": "Napoli",
+            "edad": "26",
+            "deporte": "Futbol"
+        },
+        {
+            "nombre": "Steven",
+            "pais": "Argentina",
+            "club": "Napoli",
+            "edad": "24",
+            "deporte": "Futbol"
+        },
+        {
+            "nombre": "Steven",
+            "pais": "Uruguay",
+            "club": "Real Madrid",
+            "edad": "23",
+            "deporte": "Futbol"
+        }
+    ]
+}
