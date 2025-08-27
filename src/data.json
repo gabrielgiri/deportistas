@@ -1,74 +1,215 @@
 {
-    "todos": [
-        {
-            "nombre": "Kylian Mbappé",
-            "pais": "Francia",
-            "club": "Paris Saint-Germain",
-            "edad": "20",
-            "deporte": "Futbol"
-        },
-        {
-            "nombre": "Rodrigo Bentancur",
-            "pais": "Argentina",
-            "club": "Sevilla",
-            "edad": "26",
-            "deporte": "Tenis"
-        },
-        {
-            "nombre": "Krzysztof Piątek",
-            "pais": "Brasil",
-            "club": "Barcelona",
-            "edad": "22",
-            "deporte": "Futbol"
-        },
-        {
-            "nombre": "Joshua Kimmich",
-            "pais": "Argentina",
-            "club": "Barcelona",
-            "edad": "41",
-            "deporte": "Futbol"
-        },
-        {
-            "nombre": "Luis Suarez",
-            "pais": "Peru",
-            "club": "Barcelona",
-            "edad": "39",
-            "deporte": "Futbol"
-        },
-        {
-            "nombre": "Marco Asensio",
-            "pais": "Italia",
-            "club": "Barcelona",
-            "edad": "18",
-            "deporte": "Futbol"
-        },
-        {
-            "nombre": "Andrew Robertson",
-            "pais": "Argentina",
-            "club": "Napoli",
-            "edad": "31",
-            "deporte": "Futbol"
-        },
-        {
-            "nombre": "Steven",
-            "pais": "España",
-            "club": "Napoli",
-            "edad": "26",
-            "deporte": "Futbol"
-        },
-        {
-            "nombre": "Steven",
-            "pais": "Argentina",
-            "club": "Napoli",
-            "edad": "24",
-            "deporte": "Futbol"
-        },
-        {
-            "nombre": "Steven",
-            "pais": "Uruguay",
-            "club": "Real Madrid",
-            "edad": "23",
-            "deporte": "Futbol"
-        }
-    ]
+  "todos": [
+    {
+      "nombre": "Kylian Mbappé",
+      "pais": "Francia",
+      "club": "Paris Saint-Germain",
+      "edad": "20",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Rodrigo Bentancur",
+      "pais": "Argentina",
+      "club": "Sevilla",
+      "edad": "26",
+      "deporte": "Tenis"
+    },
+    {
+      "nombre": "Krzysztof Piątek",
+      "pais": "Brasil",
+      "club": "Barcelona",
+      "edad": "22",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Joshua Kimmich",
+      "pais": "Argentina",
+      "club": "Barcelona",
+      "edad": "41",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Luis Suarez",
+      "pais": "Peru",
+      "club": "Barcelona",
+      "edad": "39",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Marco Asensio",
+      "pais": "Italia",
+      "club": "Barcelona",
+      "edad": "18",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Andrew Robertson",
+      "pais": "Argentina",
+      "club": "Napoli",
+      "edad": "31",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Steven",
+      "pais": "España",
+      "club": "Napoli",
+      "edad": "26",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Steven",
+      "pais": "Argentina",
+      "club": "Napoli",
+      "edad": "24",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Steven",
+      "pais": "Uruguay",
+      "club": "Real Madrid",
+      "edad": "23",
+      "deporte": "Futbol"
+    },
+
+    {
+      "nombre": "Lionel Messi",
+      "pais": "Argentina",
+      "club": "Inter Miami",
+      "edad": "36",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Cristiano Ronaldo",
+      "pais": "Portugal",
+      "club": "Al-Nassr",
+      "edad": "39",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Neymar Jr",
+      "pais": "Brasil",
+      "club": "Al-Hilal",
+      "edad": "32",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Erling Haaland",
+      "pais": "Noruega",
+      "club": "Manchester City",
+      "edad": "24",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Kevin De Bruyne",
+      "pais": "Bélgica",
+      "club": "Manchester City",
+      "edad": "33",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Vinícius Jr",
+      "pais": "Brasil",
+      "club": "Real Madrid",
+      "edad": "24",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Luka Modrić",
+      "pais": "Croacia",
+      "club": "Real Madrid",
+      "edad": "38",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Mohamed Salah",
+      "pais": "Egipto",
+      "club": "Liverpool",
+      "edad": "32",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Robert Lewandowski",
+      "pais": "Polonia",
+      "club": "FC Barcelona",
+      "edad": "36",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Antoine Griezmann",
+      "pais": "Francia",
+      "club": "Atlético de Madrid",
+      "edad": "34",
+      "deporte": "Futbol"
+    },
+    {
+      "nombre": "Novak Djokovic",
+      "pais": "Serbia",
+      "club": "ATP Tour",
+      "edad": "37",
+      "deporte": "Tenis"
+    },
+    {
+      "nombre": "Rafael Nadal",
+      "pais": "España",
+      "club": "ATP Tour",
+      "edad": "38",
+      "deporte": "Tenis"
+    },
+    {
+      "nombre": "Carlos Alcaraz",
+      "pais": "España",
+      "club": "ATP Tour",
+      "edad": "21",
+      "deporte": "Tenis"
+    },
+    {
+      "nombre": "Roger Federer",
+      "pais": "Suiza",
+      "club": "ATP (retirado)",
+      "edad": "43",
+      "deporte": "Tenis"
+    },
+    {
+      "nombre": "LeBron James",
+      "pais": "Estados Unidos",
+      "club": "Los Angeles Lakers",
+      "edad": "40",
+      "deporte": "Baloncesto"
+    },
+    {
+      "nombre": "Stephen Curry",
+      "pais": "Estados Unidos",
+      "club": "Golden State Warriors",
+      "edad": "36",
+      "deporte": "Baloncesto"
+    },
+    {
+      "nombre": "Giannis Antetokounmpo",
+      "pais": "Grecia",
+      "club": "Milwaukee Bucks",
+      "edad": "30",
+      "deporte": "Baloncesto"
+    },
+    {
+      "nombre": "Michael Jordan",
+      "pais": "Estados Unidos",
+      "club": "Chicago Bulls (retirado)",
+      "edad": "61",
+      "deporte": "Baloncesto"
+    },
+    {
+      "nombre": "Usain Bolt",
+      "pais": "Jamaica",
+      "club": "Atletismo",
+      "edad": "38",
+      "deporte": "Atletismo"
+    },
+    {
+      "nombre": "Simone Biles",
+      "pais": "Estados Unidos",
+      "club": "Gimnasia USA",
+      "edad": "27",
+      "deporte": "Gimnasia"
+    }
+  ]
 }
